@@ -1,0 +1,105 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Queen Micaela Fuentes Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: white;
+    }header {
+  background: #1e293b;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  color: #38bdf8;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #38bdf8;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #1e293b;
+}
+
+  </style>
+</head>
+<body><header>
+  <h1>Queen Micaela C. Fuentes</h1>
+  <p>BS Computer Science Student</p>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header><section id="home">
+  <h2>Welcome</h2>
+  <p>I am a passionate Computer Science student who loves building systems and solving real-world problems.</p>
+  <a class="btn" href="#projects">View My Work</a>
+</section><section id="about">
+  <h2>About Me</h2>
+  <div class="card">
+    <p>Hi! I’m Queen Micaela Caballes Fuentes, 22 years old from Purok 9, Aguada, Ozamiz City. I was born on May 25, 2003, and I love the color violet and red spider lily. I enjoy snacks like pastel, monggo ensaymada, and Piatos, and I also love drinks like Chuckie, Yakult, and Vita Milk. I’m 160 cm tall with blood type A. My ideal type is chinito and moreno but for now, d najud maka uyab😆💜</p>
+  </div>
+</section><section id="skills">
+  <h2>Skills</h2>
+  <div class="card">
+    <p><strong>Technical:</strong> HTML, CSS, JavaScript, MySQL</p>
+    <p><strong>Tools:</strong> Canva, MS Office</p>
+    <p><strong>Soft Skills:</strong> Communication, Teamwork, Problem-solving</p>
+  </div>
+</section><section id="projects">
+  <h2>Projects</h2>  <div class="card">
+    <h3>TRYKO TANGUB</h3>
+    <p>A mobile-based transportation booking system for tricycles.</p>
+  </div>  <div class="card">
+    <h3>Room Assignment System</h3>
+    <p>A system for organizing classroom assignments efficiently.</p>
+  </div></section><section id="contact">
+  <h2>Contact</h2>
+  <div class="card">
+    <p>Email: queencaballes143@gmail.com</p>
+    <p>Phone: 09093427867</p>
+    <p>Location: Purok-9 Aguada, Ozamiz City, Misamis Occidental</p>
+  </div>
+</section><footer>
+  <p>© 2026 Queen Micaela C. Fuentes</p>
+</footer></body>
+</html>
